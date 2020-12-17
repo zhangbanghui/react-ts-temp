@@ -1,0 +1,2 @@
+export const UPDATE_HOME_STORE = 'UPDATE_HOME_STORE'
+export type UPDATE_HOME_STORE = typeof UPDATE_HOME_STORE
